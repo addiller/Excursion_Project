@@ -1,0 +1,37 @@
+* {
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+#top_header {
+  font-size: 50px;
+  font-family: Verdana;
+  color: white;
+  text-align: center;
+  font-weight: normal;
+}
+
+#top_link, #bottom_link{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#textbelowvideo {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 40px;
+}
+
+#p1 {
+  color: grey;
+  font-size: 21px;
+  font-family: Verdana;
+}
+
+h3 {
+  font-family: Verdana;
+  font-weight: 300;
+  text-align: right;
+  color: grey;
+}
